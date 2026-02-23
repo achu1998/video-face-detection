@@ -53,11 +53,11 @@ Watch the demo of the application:
 
 Input -
 
-[![Demo Video]](https://www.youtube.com/shorts/9AeG4a7mV38)
+[![Demo Video](in.png)](https://www.youtube.com/shorts/9AeG4a7mV38)
 
 Output -
 
-[![Demo Video]](https://www.youtube.com/shorts/pbauoC6d6Q8)
+[![Demo Video](out.png)](https://www.youtube.com/shorts/pbauoC6d6Q8)
 
 ------------------------------------------------------------------------
 
