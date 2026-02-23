@@ -45,3 +45,21 @@ pip install -r requirements.txt
 - The script handles errors gracefully and continues processing even if face detection or age estimation fails.
 - The progress and detected age are displayed in real time in the console.
 
+------------------------------------------------------------------------
+
+## Demo Video
+
+Watch the demo of the application:
+
+Input -
+
+[![Demo Video]](https://www.youtube.com/shorts/9AeG4a7mV38)
+
+Output -
+
+[![Demo Video]](https://www.youtube.com/shorts/pbauoC6d6Q8)
+
+------------------------------------------------------------------------
+
+Developed by Ashween R
+
